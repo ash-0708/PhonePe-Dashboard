@@ -50,28 +50,20 @@ The project consists of a **5-page Power BI dashboard**:
 
 ## 📸 Dashboard Preview
 
-### 🏠 Overview Dashboard
-![Overview](overview.png)
+### 🏠 Overview
+![Overview](https://raw.githubusercontent.com/ash-0708/PhonePe-Dashboard/main/overview.png)
 
 ### 🏥 Insurance
-Insurance payment trends and performance analysis.
-
-![Insurance](insurance.png)
+![Insurance](https://raw.githubusercontent.com/ash-0708/PhonePe-Dashboard/main/Insurance.png)
 
 ### 💳 Loans
-Loans contribute the highest transaction value.
-
-![Loans](loans.png)
+![Loans](https://raw.githubusercontent.com/ash-0708/PhonePe-Dashboard/main/Loans.png)
 
 ### 💸 Money Transfers
-UPI transaction trends and usage patterns.
-
-![Money Transfers](moneytransfers.png)
+![Money Transfers](https://raw.githubusercontent.com/ash-0708/PhonePe-Dashboard/main/Money_Transfers.png)
 
 ### 📱 Recharge & Bills
-Recharge and bill payment distribution.
-
-![Recharge and Bills](rechargeandbills.png)
+![Recharge](https://raw.githubusercontent.com/ash-0708/PhonePe-Dashboard/main/Recharge_and_Bills.png)
 
 ## 📊 Key Features
 
