@@ -1,0 +1,187 @@
+
+# 📊 PhonePe Transaction Analytics Dashboard (Power BI)
+
+## 🚀 Project Overview
+
+This project focuses on building an **interactive Power BI dashboard** to analyze digital transactions across multiple services offered by PhonePe.
+
+The dashboard provides insights into:
+
+* Transaction volume and value
+* Success vs failure rates
+* Service-wise performance
+* Monthly transaction trends
+* Payment failure reasons
+
+The goal is to enable **data-driven decision-making** through intuitive visualizations and KPIs.
+
+---
+
+## 🧩 Dashboard Structure
+
+The project consists of a **5-page Power BI dashboard**:
+
+1. **🏠 Overview Dashboard**
+
+   * Summary of all key metrics
+   * KPI cards for Total Amount, Transactions, Success & Failure
+   * Service-wise comparison
+   * Monthly trend analysis
+
+2. **💼 Insurance Analysis**
+
+   * Insurance payment trends
+   * User engagement and contribution
+
+3. **💳 Loans Analysis**
+
+   * Loan transaction distribution
+   * High-value transaction insights
+
+4. **💸 Money Transfer Analysis**
+
+   * UPI transaction trends
+   * Frequency and value patterns
+
+5. **📱 Recharge & Bills Analysis**
+
+   * Recharge categories and usage
+   * Monthly billing behavior
+
+---
+
+## 📸 Dashboard Preview
+
+### 🏠 Overview Page
+
+![Image](https://images.openai.com/static-rsc-4/rh6h2mDbcY2yhJRTjFWMK0sy0mdmV81D4TufqKJq_jwTg7p-I83punodfJ6-acKnDYbrBPiPvnJXSuKgjNvV5idCDJUBAD8_LYb-ftTWF2oxeSKZ4vTkCX4YIPDlgB7lUl5R_WuvpH1PZL3JznUWACzIi6zW1maxkeLOA2hhDXpDKWJP9ZJtfHEeCPpeXvZb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/TUHuFuon07s7viGMKPti6P_htn-LikF3TDYeeENGVJbFBI1LFGVNCjRoeFjcFbEYx4dLFaQh8b_ZEm4qJ5e5d52Cj6KqHipbQi0JD8rlrU9xAUrwzjhWlBgw24wO_lVINCLMtPUOmvLWmVZJHJznXSPURbeP7nMmH6mxCAXiDBRLvET9QkesPB_amtqTwbIT?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/j2GO6sMmCt5o-KSkNsyQ8QbJkvWz_cua0RakxwCEE9GvLJxA3WHrscqoIVU2NEGJKEspVxdZkIZ4TgHmeuvoCFKK_jb0f8ZZMw38Y7MCQgJyBU88CbKwGB0WK1nuZhfFqC8QHIeITUCSdi488k_v3K2R4ie0SDNlluV96Y734zgch-6gdweTAq3iOl21NvXt?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9FkGtgGC1N031GUw22XdA77I703rE0wfdxdKVomA4vs_1LG0EAZdOn45TmG5PA_DhXzK4nJnquyqfOLmvbl-IbcChws0jN1KNBTE8W03niu4JH_dOl-VuucLb0d_lTIPJIB_Eq3thnlyMylBfvnZ1ekhr8rEDzDSgow4IOMNF7UHrUfY2demXCngFSy3b5-Z?purpose=fullsize)
+
+---
+
+## 📊 Key Features
+
+* 📌 **KPI Cards**
+
+  * Total Transaction Amount
+  * Total Transactions
+  * Successful Transactions
+  * Failed Transactions
+
+* 📌 **Interactive Visualizations**
+
+  * Service-wise bar charts
+  * Monthly trend line charts
+  * Failure reason pie charts
+
+* 📌 **Dynamic Filters**
+
+  * Date range slicer
+  * Service-based filtering
+
+* 📌 **Drill-down & Cross-filtering**
+
+  * Click-based filtering across visuals
+  * Interactive exploration
+
+---
+
+## ⚙️ Tech Stack
+
+* **Power BI** – Data visualization & dashboarding
+* **Power Query** – Data cleaning & transformation
+* **DAX (Data Analysis Expressions)** – Calculated measures & KPIs
+
+---
+
+## 🗂 Dataset Description
+
+The dataset contains transaction-level information, including:
+
+* **User Details**
+
+  * User ID, Name, Age, Join Date
+
+* **Transaction Data**
+
+  * Transaction ID
+  * Amount
+  * Date
+  * Payment Status (Success/Failed)
+
+* **Service Type**
+
+  * Insurance
+  * Loans
+  * Money Transfer
+  * Recharge & Bills
+
+* **Failure Reasons**
+
+  * Server Error
+  * Wrong PIN
+  * Insufficient Balance
+  * Bank Declined
+
+---
+
+## 🔍 Key Insights
+
+* 📈 Loans contribute the **highest transaction value** among all services
+* 📉 Certain months show **significant drops/spikes in transaction volume**
+* ⚠️ Major failure reasons include **server errors and incorrect PIN entries**
+* 💡 Transaction success rate remains **consistently high**, indicating system reliability
+
+---
+
+## 🎨 UI/UX Design
+
+* Purple-themed layout inspired by fintech apps
+* Clean and minimal design for better readability
+* Use of icons and cards for intuitive navigation
+* Consistent spacing and alignment
+
+---
+
+## 📌 How to Use
+
+1. Download the `.pbix` file from this repository
+2. Open in **Power BI Desktop**
+3. Use slicers to filter data (date/service)
+4. Click on visuals to explore insights interactively
+
+---
+
+## 📁 Project Files
+
+* `PhonePe_Dashboard.pbix` → Main Power BI dashboard file
+* `dataset.csv` → Source dataset
+* `README.md` → Project documentation
+
+---
+
+## 🌟 Future Improvements
+
+* Add real-time data integration
+* Deploy dashboard on Power BI Service
+* Embed dashboard in a web portfolio
+* Add predictive analytics (forecasting trends)
+
+---
+
+## 👩‍💻 Author
+
+**Nikita Jain**
+Aspiring Data Analyst | Power BI Enthusiast
+
+---
+
+✅ If you want next:
+
+* I can **customize this README with YOUR actual screenshot (not generic)**
+* or help you **host this dashboard online without login issues** (important for recruiters)
