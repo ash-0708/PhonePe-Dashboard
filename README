@@ -48,18 +48,21 @@ The project consists of a **5-page Power BI dashboard**:
    * Recharge categories and usage
    * Monthly billing behavior
 
----
 ## 📸 Dashboard Preview
 
 ### 🏠 Overview Dashboard
-![Overview](https://github.com/ash-0708/PhonePe-Dashboard/blob/main/Insurance.png)
+![Overview](overview.png)
 
+### 🏥 Insurance
 ![Insurance](Insurance.png)
 
+### 💳 Loans
 ![Loans](Loans.png)
 
+### 💸 Money Transfers
 ![Money Transfers](Money_Transfers.png)
 
+### 📱 Recharge & Bills
 ![Recharge and Bills](Recharge_and_Bills.png)
 
 ## 📊 Key Features
