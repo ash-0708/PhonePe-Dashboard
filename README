@@ -49,22 +49,30 @@ The project consists of a **5-page Power BI dashboard**:
    * Monthly billing behavior
 
 ---
-
 ## 📸 Dashboard Preview
 
-### 🏠 Overview Page
+### 🏠 Overview Dashboard
+<img src="images/overview.png" width="900"/>
 
-![Image](https://github.com/ash-0708/PhonePe-Dashboard/blob/main/Screenshot%202026-04-14%20232540.png)
+---
 
-![Image](https://github.com/ash-0708/PhonePe-Dashboard/blob/main/Screenshot%202026-04-14%20232628.png)
+### 📊 Insurance Analysis
+<img src="images/insurance.png" width="900"/>
 
-![Image](https://github.com/ash-0708/PhonePe-Dashboard/blob/main/Screenshot%202026-04-14%20232640.png)
+---
 
-![Image](https://github.com/ash-0708/PhonePe-Dashboard/blob/main/Screenshot%202026-04-14%20232712.png)
+### 📈 Loans Analysis
+<img src="images/loans.png" width="900"/>
 
-![Image](https://github.com/ash-0708/PhonePe-Dashboard/blob/main/Screenshot%202026-04-14%20232728.png)
+---
 
-![Image](https://github.com/ash-0708/PhonePe-Dashboard/blob/main/Screenshot%202026-04-14%20232743.png)
+###  Money_Transfer Analysis
+<img src="images/Money_Transfers.png" width="900"/>
+
+---
+
+###  Recharge&Bilss Analysis
+<img src="images/Recharge_and_Bills.png" width="900"/>
 
 ---
 
