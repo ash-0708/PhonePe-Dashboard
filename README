@@ -164,7 +164,7 @@ The dataset contains transaction-level information, including:
 ## 📁 Project Files
 
 * `PhonePe_Dashboard.pbix` → Main Power BI dashboard file
-* `dataset.csv` → Source dataset
+* `Phonepe_final_dataset.xlsx` → Source dataset
 * `README.md` → Project documentation
 
 ---
@@ -180,12 +180,5 @@ The dataset contains transaction-level information, including:
 
 ## 👩‍💻 Author
 
-**Nikita Jain**
-Aspiring Data Analyst | Power BI Enthusiast
+**Ashwati Jain**
 
----
-
-✅ If you want next:
-
-* I can **customize this README with YOUR actual screenshot (not generic)**
-* or help you **host this dashboard online without login issues** (important for recruiters)
