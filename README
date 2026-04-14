@@ -54,16 +54,24 @@ The project consists of a **5-page Power BI dashboard**:
 ![Overview](overview.png)
 
 ### 🏥 Insurance
-![Insurance](Insurance.png)
+Insurance payment trends and performance analysis.
+
+![Insurance](insurance.png)
 
 ### 💳 Loans
-![Loans](Loans.png)
+Loans contribute the highest transaction value.
+
+![Loans](loans.png)
 
 ### 💸 Money Transfers
-![Money Transfers](Money_Transfers.png)
+UPI transaction trends and usage patterns.
+
+![Money Transfers](moneytransfers.png)
 
 ### 📱 Recharge & Bills
-![Recharge and Bills](Recharge_and_Bills.png)
+Recharge and bill payment distribution.
+
+![Recharge and Bills](rechargeandbills.png)
 
 ## 📊 Key Features
 
